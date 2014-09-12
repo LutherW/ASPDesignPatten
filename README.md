@@ -1,4 +1,4 @@
 mystudy
 =======
 
-学习，技术储备，测试之用
+asp.net设计模式Demo
