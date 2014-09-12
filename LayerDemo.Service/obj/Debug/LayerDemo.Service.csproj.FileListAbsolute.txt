@@ -1,0 +1,9 @@
+E:\WTL\LayerDemo\LayerDemo.Service\bin\Debug\LayerDemo.Service.dll
+E:\WTL\LayerDemo\LayerDemo.Service\bin\Debug\LayerDemo.Service.pdb
+E:\WTL\LayerDemo\LayerDemo.Service\bin\Debug\LayerDemo.Model.dll
+E:\WTL\LayerDemo\LayerDemo.Service\bin\Debug\LayerDemo.Repository.dll
+E:\WTL\LayerDemo\LayerDemo.Service\bin\Debug\LayerDemo.Model.pdb
+E:\WTL\LayerDemo\LayerDemo.Service\bin\Debug\LayerDemo.Repository.pdb
+E:\WTL\LayerDemo\LayerDemo.Service\obj\Debug\LayerDemo.Service.csprojResolveAssemblyReference.cache
+E:\WTL\LayerDemo\LayerDemo.Service\obj\Debug\LayerDemo.Service.dll
+E:\WTL\LayerDemo\LayerDemo.Service\obj\Debug\LayerDemo.Service.pdb

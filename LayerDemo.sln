@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLogicLayer", "BusinessLogicLayer", "{D2FB12D7-5095-4C82-8395-6F2A1908CE0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerDemo.Model", "LayerDemo.Model\LayerDemo.Model.csproj", "{CDCD7965-3353-449C-BEBC-867D5034ECEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccessLayer", "DataAccessLayer", "{EB4E3C9B-06C5-4662-AB31-011269B9E4DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceLayer", "ServiceLayer", "{FA9361A5-4F3B-4C26-841F-E460E681E968}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PresentationLayer", "PresentationLayer", "{9768B464-D2F6-4FCB-B9D1-C690BBB022C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserInterfaceLayer", "UserInterfaceLayer", "{792EE924-4B27-4D6C-94E8-D3E07BAC622F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{433AAEA0-00A6-4A29-8CAB-7216CCAA4F4A}"
+	ProjectSection(SolutionItems) = preProject
+		Libs\StructureMap.dll = Libs\StructureMap.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerDemo.Repository", "LayerDemo.Repository\LayerDemo.Repository.csproj", "{AA5DE408-DC3D-4869-A2CE-8E0244F27C86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerDemo.Service", "LayerDemo.Service\LayerDemo.Service.csproj", "{51CF87D6-23E1-45FC-B60E-E3681596E8B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerDemo.Presentation", "LayerDemo.Presentation\LayerDemo.Presentation.csproj", "{9DE8BE6C-BDCC-4F2E-9D0A-7EC41552491B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerDemo.WebUI", "LayerDemo.WebUI\LayerDemo.WebUI.csproj", "{C3A5CC44-0790-42F8-A3DC-9DA1401BC262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDCD7965-3353-449C-BEBC-867D5034ECEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCD7965-3353-449C-BEBC-867D5034ECEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCD7965-3353-449C-BEBC-867D5034ECEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCD7965-3353-449C-BEBC-867D5034ECEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA5DE408-DC3D-4869-A2CE-8E0244F27C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5DE408-DC3D-4869-A2CE-8E0244F27C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5DE408-DC3D-4869-A2CE-8E0244F27C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5DE408-DC3D-4869-A2CE-8E0244F27C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CF87D6-23E1-45FC-B60E-E3681596E8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CF87D6-23E1-45FC-B60E-E3681596E8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CF87D6-23E1-45FC-B60E-E3681596E8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CF87D6-23E1-45FC-B60E-E3681596E8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE8BE6C-BDCC-4F2E-9D0A-7EC41552491B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE8BE6C-BDCC-4F2E-9D0A-7EC41552491B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE8BE6C-BDCC-4F2E-9D0A-7EC41552491B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE8BE6C-BDCC-4F2E-9D0A-7EC41552491B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A5CC44-0790-42F8-A3DC-9DA1401BC262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A5CC44-0790-42F8-A3DC-9DA1401BC262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A5CC44-0790-42F8-A3DC-9DA1401BC262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A5CC44-0790-42F8-A3DC-9DA1401BC262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CDCD7965-3353-449C-BEBC-867D5034ECEA} = {D2FB12D7-5095-4C82-8395-6F2A1908CE0F}
+		{AA5DE408-DC3D-4869-A2CE-8E0244F27C86} = {EB4E3C9B-06C5-4662-AB31-011269B9E4DA}
+		{51CF87D6-23E1-45FC-B60E-E3681596E8B6} = {FA9361A5-4F3B-4C26-841F-E460E681E968}
+		{9DE8BE6C-BDCC-4F2E-9D0A-7EC41552491B} = {9768B464-D2F6-4FCB-B9D1-C690BBB022C1}
+		{C3A5CC44-0790-42F8-A3DC-9DA1401BC262} = {792EE924-4B27-4D6C-94E8-D3E07BAC622F}
+	EndGlobalSection
+EndGlobal

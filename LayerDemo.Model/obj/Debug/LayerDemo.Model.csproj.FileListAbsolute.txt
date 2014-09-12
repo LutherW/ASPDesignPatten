@@ -1,0 +1,4 @@
+E:\WTL\LayerDemo\LayerDemo.Model\bin\Debug\LayerDemo.Model.dll
+E:\WTL\LayerDemo\LayerDemo.Model\bin\Debug\LayerDemo.Model.pdb
+E:\WTL\LayerDemo\LayerDemo.Model\obj\Debug\LayerDemo.Model.dll
+E:\WTL\LayerDemo\LayerDemo.Model\obj\Debug\LayerDemo.Model.pdb
